@@ -113,5 +113,5 @@ Q^{\pi}_\diamond(s,a)&=\diamond(s, a) + \gamma \mathbb{E}_{s^{\prime} \sim P(\cd
   - 代码: https://github.com/ZifanWu/CAL/tree/main 
 - [3] Safe Policies for Reinforcement Learning via Primal-Dual Methods (IEEE Transactions on Automatic Control, 2023)
   - 论文：https://arxiv.org/pdf/1911.09101
-- [4] Provably Efficient Safe Exploration via Primal-Dual Policy Optimization (AISTATS, 2021, 理论性研究)
+- [4] Provably Efficient Safe Exploration via Primal-Dual Policy Optimization (AISTATS, 2021, follow LMDP的理论性研究)
   - 论文：https://arxiv.org/pdf/1911.09101
